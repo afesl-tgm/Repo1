@@ -1,0 +1,54 @@
+commit d4c4f6dab9fe4246730dbd25dc24449277022f94
+Merge: 243ec7c 5a5d268
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Feb 20 12:54:34 2018 +0100
+
+    Merge branch 'master' of github.com:firestorm007/Repo1
+    
+    # Conflicts:
+    #       textfile.txt
+
+commit 243ec7c699a107a35769d807619d5047e089afe4
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Feb 20 12:36:34 2018 +0100
+
+    zweite zeile hinzugefügt
+
+ textfile.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 5a5d2689c10139b9b58303baf6702372ae014f9f
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Feb 20 12:34:02 2018 +0100
+
+    Eine zweite Zeile hinzugefügt
+
+ textfile.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 33fd1f4b8b209105e9eaa613bb6a41789715e054
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Feb 20 12:19:57 2018 +0100
+
+    mit rufzeichen
+
+ textfile.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit f84d58a8a58c643218ad1c00c74ede0501871548
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Feb 20 12:18:43 2018 +0100
+
+    Textfile mit textinhalt erzeugt
+
+ textfile.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 3e0a5889db3510d9af4fe3fcf3cbb58f0a824954
+Author: afesl <afesl@student.tgm.ac.at>
+Date:   Tue Feb 20 12:17:07 2018 +0100
+
+    First commmit
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
